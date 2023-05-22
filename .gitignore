@@ -1,3 +1,4 @@
 .cache/clangd/index
 compile_commands.json
 .nfs00000000000cf6f900000016
+build/main.o.d
